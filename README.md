@@ -2,6 +2,8 @@
 > Create a 3D printed knife block with motorised knife shapener which is charged by a solar panel.
 ![thumbnail](./thumbnail.png)
 
+🎖️ Featured by [Instructables](https://www.instructables.com/The-Ultimate-Knife-Block/)
+
 --- 
 
 ## `tutorials`
