@@ -36,6 +36,8 @@ We decided to make a knife block which incorporates a mechanical knife sharpener
 
 * 3X Screws 12mm m3 — [https://amzn.to/2XF7cno](https://amzn.to/2VsZL5g)
 
+> # [🔗 Get The Ultimate Knife Block Files On Github 📔](https://github.com/sk-t3ch/ultimate-knife-block)
+
 ## Tutorial 🤖
 
 
