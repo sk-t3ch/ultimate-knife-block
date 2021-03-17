@@ -1,4 +1,4 @@
-# [T3chFlicks](https://t3chflicks.org): The Ultimated Knife Block
+# [T3chFlicks](https://t3chflicks.org): The Ultimate Knife Block
 > Create a 3D printed knife block with motorised knife shapener which is charged by a solar panel.
 ![thumbnail](./thumbnail.png)
 
